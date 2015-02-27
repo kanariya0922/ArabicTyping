@@ -1,0 +1,12 @@
+ul li
+{
+    float:left;
+    display:block;
+    font-size:100px;
+    text-align:center;
+    list-style-type:none;
+    padding:10px;
+}
+
+#question { width: 1500px;}
+#keybord { clear:both;width: 1500px;}
